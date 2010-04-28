@@ -1,0 +1,79 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Benoit "LeBen" Burgener
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: I Like This\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/i-like-this\n"
+"POT-Creation-Date: 2009-10-28 09:36+0000\n"
+"PO-Revision-Date: 2009-10-28 10:38+0100\n"
+"Last-Translator: Benoît Burgener <contact@benoitburgener.com>\n"
+"Language-Team: LeBen\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+
+#: i-like-this.php:80
+msgid "jQuery framework"
+msgstr ""
+
+#: i-like-this.php:83
+msgid "Enabled"
+msgstr ""
+
+#: i-like-this.php:83
+msgid "Disabled"
+msgstr ""
+
+#: i-like-this.php:85
+msgid "Disable it if you already have the jQuery framework enabled in your theme."
+msgstr ""
+
+#: i-like-this.php:89
+msgid "Image or text?"
+msgstr ""
+
+#: i-like-this.php:101
+msgid "Automatic display"
+msgstr ""
+
+#: i-like-this.php:105
+msgid "<strong>On all posts</strong> (home, archives, search) at the bottom of the post"
+msgstr ""
+
+#: i-like-this.php:107
+msgid "If you disable this option, you have to put manually the code"
+msgstr ""
+
+#: i-like-this.php:107
+msgid "wherever you want in your template."
+msgstr ""
+
+#: i-like-this.php:111
+msgid "Save Options"
+msgstr ""
+
+#. Plugin Name of an extension
+msgid "I Like This"
+msgstr ""
+
+#. Plugin URI of an extension
+msgid "http://www.benoitburgener.com/blog/plugin-wordpress-i-like-this"
+msgstr ""
+
+#. Description of an extension
+msgid "This plugin allows your visitors to simply like your posts instead of commment it."
+msgstr ""
+
+#. Author of an extension
+msgid "Benoit \"LeBen\" Burgener"
+msgstr ""
+
+#. Author URI of an extension
+msgid "http://benoitburgener.com"
+msgstr ""
+
